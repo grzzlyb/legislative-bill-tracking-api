@@ -2,6 +2,8 @@
 
 The legislative bills tracking API built on top of Spring framework typically web scrapes the information about legislative bills and includes endpoints that allow users to retrieve the bill names and their current statuses.
 
+The information on bills is taken from https://prsindia.org/billtrack
+
 ## Installation
 * Download the code
 * Import as existing maven project
