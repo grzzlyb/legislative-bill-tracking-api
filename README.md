@@ -45,7 +45,7 @@ The legislative bills tracking API built on top of Spring framework typically we
     ...
   ```
   
-* Error handling support added for `BAD_REQUEST` & `NOT_FOUND`
+* Error handling support added for `BAD_REQUEST` & `NOT_FOUND` status codes
 
 ```
 {
